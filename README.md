@@ -2,7 +2,7 @@
 <br>
 
 Why are you reading this?  Seriously, I wanna know...<br>
-And, I'm Fer, 16 years old living in Colombia.<br>
+And, I'm Fer, 17 years old living in Colombia.<br>
 Studying first year of Computer and Systems Engineering.
 
 ### What I commonly use
