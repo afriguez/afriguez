@@ -3,6 +3,7 @@
 
 Why are you reading this?  Seriously, I wanna know...<br>
 And, I'm Fer, nice to meet you.
+### Discord Status
 <div align="center">
 	<a href="https://discord.com/users/361159575036231691" target="_blank">
 		<img width="50%" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/361159575036231691?bg=1f1f1f&borderRadius=5px">
