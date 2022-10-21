@@ -9,14 +9,25 @@ Fer L. 18 y/o developer.
 
 I'm currently working on some projects that will be published eventually.
 
-<img align="left" alt="ArchLinux" width="30px" src="https://github.com/afriguez/afriguez/blob/master/archlinux.png" style="max-width:100%;">
-<br />
-<img align="left" alt="Neovim" width="30px" src="https://github.com/afriguez/afriguez/blob/master/neovim.png" style="max-width:100%;">
-<img align="left" alt="Elixir" width="30px" src="https://github.com/afriguez/afriguez/blob/master/elixir.png" style="max-width:100%;">
-<br />
-<img align="left" alt="TypeScript" width="30px" src="https://github.com/afriguez/afriguez/blob/master/ts.png" style="max-width:100%;">
-<img align="left" alt="NodeJs" width="30px" src="https://github.com/afriguez/afriguez/blob/master/nodejs.png" style="max-width:100%;">
-<br />
-<img align="left" alt="Python" width="30px" src="https://github.com/afriguez/afriguez/blob/master/python.png" style="max-width:100%;">
-
-I use Arch btw.
+<div>
+  <img alt="ArchLinux" width="40px" src="https://github.com/afriguez/afriguez/blob/master/archlinux.png">
+  <img alt="Neovim" width="40px" src="https://github.com/afriguez/afriguez/blob/master/neovim.png">
+</div>
+<div>
+  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://skillicons.dev/icons?i=bash" />
+</div>
+<div>
+  <img src="https://skillicons.dev/icons?i=mongo" />
+  <img src="https://skillicons.dev/icons?i=postgres" />
+  <img src="https://skillicons.dev/icons?i=redis" />
+  <img src="https://skillicons.dev/icons?i=firebase" />
+</div>
+<div>
+  <img src="https://skillicons.dev/icons?i=ts" />
+  <img src="https://skillicons.dev/icons?i=go" />
+  <img src="https://skillicons.dev/icons?i=kotlin" />
+  <img src="https://skillicons.dev/icons?i=py" />
+  <img src="https://skillicons.dev/icons?i=elixir" />
+</div>
